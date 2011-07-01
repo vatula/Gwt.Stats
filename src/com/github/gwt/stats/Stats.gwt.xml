@@ -1,0 +1,6 @@
+<module>
+	<inherits name="com.google.gwt.user.User" />
+	<inherits name="java.util.Util"/>
+	<inherits name="com.google.common.collect.Collect"/>
+	<source path="client"/>
+</module>
